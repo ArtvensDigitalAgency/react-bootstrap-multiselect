@@ -1,1 +1,1 @@
-This is form of https://github.com/skratchdot/react-bootstrap-multiselect
+This is fork of https://github.com/skratchdot/react-bootstrap-multiselect
