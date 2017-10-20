@@ -3,6 +3,7 @@ _ignore/
 demo/
 test/
 www/
+.idea/
 .DS_Store
 .gitignore
 .npm-debug.log
